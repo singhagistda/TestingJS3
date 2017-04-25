@@ -1,4 +1,4 @@
-testing.coOHOHOHOHOHOHOHOHOHOHOHOHxxxx
+Singha
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet href="STYLE.XSL" type="text/xsl" ?>
 <Dimap_Document>
